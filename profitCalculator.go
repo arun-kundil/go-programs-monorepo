@@ -1,3 +1,4 @@
+// Simple program to explain functions in GO
 package main
 
 import (
